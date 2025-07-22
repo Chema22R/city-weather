@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/be91f535-122a-4964-8935-41a9424933d3/deploy-status)](https://app.netlify.com/sites/cities-weather/deploys)
 [![CodeQL](https://github.com/Chema22R/city-weather/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Chema22R/city-weather/actions/workflows/codeql-analysis.yml)
-[![MIT License](https://camo.githubusercontent.com/d59450139b6d354f15a2252a47b457bb2cc43828/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f7365727665726c6573732e737667)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # City Weather
 
